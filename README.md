@@ -20,6 +20,6 @@ OS 32/64 bit JAVA 1.8(jdk1.8.0_91) Spring Boot 1.4 Maven 3.0.5 Junit 4.11 Intell
 To build the application:
 mvn clean install mvn verify test
 
-Test cases
+Test cases:
 Tests covers expected operations mentioned in the assignment. There are 5 test cases run when application is built, 
 any changes in application can be easily caught by tests.
